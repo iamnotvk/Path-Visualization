@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Path-Visualization/static/css/main.63b4ad43.chunk.css",
+    "main.js": "/Path-Visualization/static/js/main.eb0370a1.chunk.js",
+    "main.js.map": "/Path-Visualization/static/js/main.eb0370a1.chunk.js.map",
+    "runtime-main.js": "/Path-Visualization/static/js/runtime-main.d89b3f07.js",
+    "runtime-main.js.map": "/Path-Visualization/static/js/runtime-main.d89b3f07.js.map",
+    "static/js/2.dd36de1f.chunk.js": "/Path-Visualization/static/js/2.dd36de1f.chunk.js",
+    "static/js/2.dd36de1f.chunk.js.map": "/Path-Visualization/static/js/2.dd36de1f.chunk.js.map",
+    "index.html": "/Path-Visualization/index.html",
+    "precache-manifest.93f3eda8841a92a02c362ddf0d9b162d.js": "/Path-Visualization/precache-manifest.93f3eda8841a92a02c362ddf0d9b162d.js",
+    "service-worker.js": "/Path-Visualization/service-worker.js",
+    "static/css/main.63b4ad43.chunk.css.map": "/Path-Visualization/static/css/main.63b4ad43.chunk.css.map",
+    "static/js/2.dd36de1f.chunk.js.LICENSE.txt": "/Path-Visualization/static/js/2.dd36de1f.chunk.js.LICENSE.txt",
+    "static/media/path.png": "/Path-Visualization/static/media/path.ef1c85a6.png",
+    "static/media/play-solid.svg": "/Path-Visualization/static/media/play-solid.5e937398.svg",
+    "static/media/times-circle-solid.svg": "/Path-Visualization/static/media/times-circle-solid.5cf1da3a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d89b3f07.js",
+    "static/js/2.dd36de1f.chunk.js",
+    "static/css/main.63b4ad43.chunk.css",
+    "static/js/main.eb0370a1.chunk.js"
+  ]
+}
